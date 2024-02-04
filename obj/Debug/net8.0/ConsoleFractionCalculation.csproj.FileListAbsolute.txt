@@ -12,3 +12,4 @@ C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\refin
 C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\ConsoleFractionCalculation.pdb
 C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\ConsoleFractionCalculation.genruntimeconfig.cache
 C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\ref\ConsoleFractionCalculation.dll
+C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\ConsoleFractionCalculation.sourcelink.json

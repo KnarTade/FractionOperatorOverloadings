@@ -1,48 +1,41 @@
-﻿using ConsoleFractionCalculation;
-using System.Security.Cryptography.X509Certificates;
-
-namespace OverloadIndexerExtensionMehods;
+﻿namespace OverloadIndexerExtensionMehods;
 
 internal class Program
 {
     static void Main(string[] args)
     {
-        //    Console.WriteLine("Write 2 numbers");
+        Fraction fractionFirst = new Fraction(75, 45);
+        Fraction fractionSecond = new Fraction(66, 11);
 
-        //    string x = Console.ReadLine();
+        Fraction fractionThird = fractionFirst + fractionSecond;
+        Console.WriteLine(fractionThird);
 
-        //    string[] y = x.Split('/');
+        Fraction fractionFourth = fractionFirst - fractionSecond;
+        Console.WriteLine(fractionFourth);
 
-        //    Fraction fractionFirst = new Fraction(char.Parse(y[0]), char.Parse(y[1]));
+        Fraction fractionFiveth = fractionFirst * fractionSecond;
+        Console.WriteLine(fractionFiveth);
 
+        Fraction fractionSixth = fractionFirst / fractionSecond;
+        Console.WriteLine(fractionSixth);
 
-        //    Console.WriteLine("Write 2 numbers");
+        Fraction fractionSeventh = ~fractionFirst;
+        Console.WriteLine(fractionSeventh);
 
-        //    string second = Console.ReadLine();
+        MixedFraction mFirst = new MixedFraction( 12, fractionFirst);
 
-        //    string[] s = x.Split('/');
+        MixedFraction mSecond = new MixedFraction( 34, fractionSecond);
 
-        //    Fraction fractionSecond = new Fraction(char.Parse(y[0]), char.Parse(y[1]));
-
-        //    char symboll = '+';
-
-        //  static double Gumarum (Fraction fractionFirst, Fraction fractionSecond,char symboll)
-        //    {
-        //        double x =
-
-
-        //        return fractionFirst + fractionSecond;
-        //    }
-        //}
-        ReadOnlyStruct readOnlyStruct = new ReadOnlyStruct(5, "arajin");
-        ReadOnlyStruct readOnlyStruct2 = new ReadOnlyStruct(6, "erkrord");
-         
-        readOnlyStruct2 = readOnlyStruct;
-        Console.WriteLine($"{readOnlyStruct2.ReadonlyField}");
+        Fraction mthi = mFirst * mSecond;
+        Console.WriteLine(mthi);
 
 
     }
+
+
+
 }
+
 
 
 
