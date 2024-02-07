@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleFractionCalculation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168a6b8aa34693de48b3fb3fa997ddf3a53f27ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3816bfee9a839e4d553a718a2d8ba2f7c37fb6e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleFractionCalculation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleFractionCalculation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

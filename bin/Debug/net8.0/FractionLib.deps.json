@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "ConsoleFractionCalculation/1.0.0": {
-        "dependencies": {
-          "FractionLib": "1.0.0"
-        },
-        "runtime": {
-          "ConsoleFractionCalculation.dll": {}
-        }
-      },
       "FractionLib/1.0.0": {
         "runtime": {
           "FractionLib.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "ConsoleFractionCalculation/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "FractionLib/1.0.0": {
       "type": "project",
       "serviceable": false,

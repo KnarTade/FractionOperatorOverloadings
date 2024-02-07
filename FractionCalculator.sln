@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleFractionCalculation"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcWpf", "..\Wpf\CalcWpf.csproj", "{EA01FD8B-8B4C-42E3-98F3-C1803BBF64DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionLib", "..\FractionLib\FractionLib.csproj", "{5299817C-AFE5-4E39-AE4B-DE6DA30E99EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EA01FD8B-8B4C-42E3-98F3-C1803BBF64DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA01FD8B-8B4C-42E3-98F3-C1803BBF64DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA01FD8B-8B4C-42E3-98F3-C1803BBF64DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5299817C-AFE5-4E39-AE4B-DE6DA30E99EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5299817C-AFE5-4E39-AE4B-DE6DA30E99EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5299817C-AFE5-4E39-AE4B-DE6DA30E99EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5299817C-AFE5-4E39-AE4B-DE6DA30E99EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

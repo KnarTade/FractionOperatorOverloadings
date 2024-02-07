@@ -13,3 +13,10 @@ C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\Conso
 C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\ConsoleFractionCalculation.genruntimeconfig.cache
 C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\ref\ConsoleFractionCalculation.dll
 C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\ConsoleFractionCalculation.sourcelink.json
+C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\bin\Debug\net8.0\FractionLib.deps.json
+C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\bin\Debug\net8.0\FractionLib.runtimeconfig.json
+C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\bin\Debug\net8.0\FractionLib.exe
+C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\bin\Debug\net8.0\FractionLib.dll
+C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\bin\Debug\net8.0\FractionLib.pdb
+C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\ConsoleFractionCalculation.csproj.AssemblyReference.cache
+C:\Users\Knar\source\repos\OverloadIndexerExtensionMehods\obj\Debug\net8.0\ConsoleFractionCalculation.csproj.CopyComplete

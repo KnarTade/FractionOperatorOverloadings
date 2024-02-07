@@ -1,51 +1,69 @@
-﻿
+﻿namespace OverloadIndexerExtensionMehods;
 
-namespace OverloadIndexerExtensionMehods;
-
-internal class Program
+public class Program
 {
     static void Main(string[] args)
     {
+        //{
+        //    #region
+        //    int num, den, numSec, denSec, wholeFirst, wholeSecond;
+
+        //    Console.WriteLine("Please write num of  the first fraction");
+
+        //    num = Class1.ReadIntegerWithValidation();
+
+        //    Console.WriteLine("Please write dem of  the first fraction");
+
+        //    den = Class1.ReadNonzeroIntegerWithValidation();
+
+        //    Console.WriteLine("Please write num of  the second fraction");
+
+        //    numSec = Class1.ReadNonzeroIntegerWithValidation();
+
+        //    Console.WriteLine("Please write dem of  the second fraction");
+
+        //    denSec = Class1.ReadNonzeroIntegerWithValidation();
+
+        //    Fraction fractionFirst = new Fraction(num, den);
+        //    Fraction fractionSecond = new Fraction(numSec, denSec);
+
+        //    Fraction fractionThird = ~(fractionFirst + fractionSecond);
+        //    Console.WriteLine(fractionThird);
 
 
-        /* {
-             Fraction fractionFirst = new Fraction(75, 45);
-             Fraction fractionSecond = new Fraction(66, 11);
+        //    Fraction fractionFourth = ~(fractionFirst - fractionSecond);
+        //    Console.WriteLine(fractionFourth);
 
-             Fraction fractionThird = fractionFirst + fractionSecond;
-             Console.WriteLine(fractionThird);
+        //    Fraction fractionFiveth = ~(fractionFirst * fractionSecond);
+        //    Console.WriteLine(fractionFiveth);
 
-             Fraction fractionFourth = fractionFirst - fractionSecond;
-             Console.WriteLine(fractionFourth);
+        //    Fraction fractionSixth = ~(fractionFirst / fractionSecond);
+        //    Console.WriteLine(fractionSixth);
 
-             Fraction fractionFiveth = fractionFirst * fractionSecond;
-             Console.WriteLine(fractionFiveth);
+        //    Fraction fractionSeventh = ~fractionFirst;
+        //    Console.WriteLine(fractionSeventh);
 
-             Fraction fractionSixth = fractionFirst / fractionSecond;
-             Console.WriteLine(fractionSixth);
+        //    #endregion
 
-             Fraction fractionSeventh = ~fractionFirst;
-             Console.WriteLine(fractionSeventh);
 
-             MixedFraction mFirst = new MixedFraction(12, fractionFirst);
+        //    Console.WriteLine("Please write the whole number of the first fraction:");
 
-             MixedFraction mSecond = new MixedFraction(34, fractionSecond);
+        //    wholeFirst = Class1.ReadIntegerWithValidation();
 
-             Fraction mthi = mFirst * mSecond;
-             Console.WriteLine(mthi);
+        //    Console.WriteLine("Please write the whole number of the second fraction:");
+            
+        //    wholeSecond = Class1.ReadIntegerWithValidation();
 
-         } */
+        //    MixedFraction mFirst = new MixedFraction(wholeFirst, fractionFirst);
 
-        string a = "hello";
-        string b = "123";
+        //     MixedFraction mSecond = new MixedFraction(wholeSecond, fractionSecond);
 
-        var c = 4234525.144444d;
-        var d = 53445.555555f;
-        var e = 44566543.345678765m;
+        //     Fraction mthi = ~(mFirst * mSecond);
+        //     Console.WriteLine(mthi);
 
-        //int f = (int)b;// int f = (int)a; error can not convert
-        bool g = int.TryParse(b, out  int f);
-        Console.WriteLine(f);
+        // } 
+
+      
 
     }
 }
